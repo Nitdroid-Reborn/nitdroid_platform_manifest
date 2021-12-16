@@ -8,9 +8,9 @@
            sync-j="4" />
 
   <remote  name="gitorious"
-           fetch="git://gitorious.org/android-n900/" />
+           fetch="git://github.com/Nitdroid-Reborn/" />
   <remote  name="android-goodies"
-           fetch="git://gitorious.org/android-goodies/" />
+           fetch="git://github.com/Nitdroid-Reborn/" />
 
   <project path="build" name="platform/build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
